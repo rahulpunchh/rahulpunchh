@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Purohit
-- 👀 I’m interested in coding and real world problem solving.
-- 🌱 I’m currently learning.
+- 👀 I’m interested in coding and real-world problem-solving.
+- 🌱 I’m always learning.
 
 <!---
 rahulpunchh/rahulpunchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
